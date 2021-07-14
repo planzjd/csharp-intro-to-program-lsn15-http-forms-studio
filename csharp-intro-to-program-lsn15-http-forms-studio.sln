@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.809.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "csharp-intro-to-program-lsn15-http-forms-studio", "csharp-intro-to-program-lsn15-http-forms-studio\csharp-intro-to-program-lsn15-http-forms-studio.mdproj", "{B0C3B7C4-CE71-498A-99DB-5C2DC59CABEE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D126003-6773-4E6B-B95A-93B718798849}"
+	ProjectSection(SolutionItems) = preProject
+		EmptyCSSFile.css = EmptyCSSFile.css
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Any CPU = Default|Any CPU
